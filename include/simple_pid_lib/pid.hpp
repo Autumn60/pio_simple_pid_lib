@@ -17,6 +17,8 @@
 
 #include "simple_pid_lib/pid_config.hpp"
 
+#include <Arduino.h>
+
 namespace simple_pid_lib
 {
 class PID
